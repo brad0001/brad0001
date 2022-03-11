@@ -33,7 +33,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_notable: yes
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: mastered
